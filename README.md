@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on  - Projects which can use & utilize personalized data to solve real-life problems
 - 🤔 I’m looking for help with - Big Data & Natural Language Processing
 - 📫 How to reach me - www.linkedin.com/in/marianataqi
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a Film Buff and Amateur Chef
+- 😄 Fun fact: I am a Film Buff and Amateur Chef
 
 <!---
 marianataqi/marianataqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
