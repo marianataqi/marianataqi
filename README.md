@@ -2,9 +2,9 @@
 
 I am a dedicated and highly skilled Data Analyst with a strong background in data gathering, analysis, and reporting. With over 7 years of professional experience, I have honed my ability to leverage data to drive business success and strategic decision-making. My expertise spans across various data analysis tools and technologies, including SQL, Python, Databricks, Apache Spark, and Power BI, which I use to preprocess, analyze, and visualize data effectively.
 
-- 👀 I’m interested in Artificial Inteligence
--  I’m currently working on Python, Machine Learning, Tableau, SQL, AWS
-- 🌱 I’m currently learning - Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches
+- 👀 I’m interested in Data!
+-  I’m currently working on Python, Machine Learning, Power BI, SQL
+- 🌱 I’m currently learning - Microsoft Fabric and AZURE
 - 💞️ I’m looking to collaborate on  - Projects which can use & utilize personalized data to solve real-life problems
 - 🤔 I’m looking for help with - Big Data & Natural Language Processing
 - 📫 How to reach me - www.linkedin.com/in/marianataqi
