@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @marianataqi
 
-I am a dedicated and highly skilled Data Analyst with a strong background in data gathering, analysis, and reporting. With over 7 years of professional experience, I have honed my ability to leverage data to drive business success and strategic decision-making. My expertise spans across various data analysis tools and technologies, including SQL, Python, Databricks, Apache Spark, and Power BI, which I use to preprocess, analyze, and visualize data effectively.
+I am a dedicated and highly skilled Data Analyst with over 4 years of experience in data gathering, processing, analysis, and reporting. I specialize in transforming raw data into actionable insights that support strategic business decisions.
+
+My technical expertise includes SQL, Python, Excel, and Power BI, which I use to build end-to-end analytics solutions—from ETL pipelines to interactive dashboards. I am certified as a Microsoft Power BI Data Analyst Associate (PL-300) and an Alteryx Core Designer, demonstrating my commitment to professional development and data excellence.
+
+With a strong analytical mindset and a passion for continuous learning, I strive to bridge the gap between 
 
 - 👀 I’m interested in Data!
 -  I’m currently working on Python, Machine Learning, Power BI, SQL
