@@ -14,8 +14,10 @@ I strive to **bridge the gap between data and actionable business insights**, he
 - Interested in **Big Data & NLP**, looking to grow my skills in these areas.  
 
 ### 📬 Connect with Me
-- LinkedIn: [Your LinkedIn link]  
-- GitHub: [Your GitHub link]  
+- LinkedIn: [www.linkedin.com/in/marianataqi
+
+]  
+  
 
 ### 🎬 Fun Fact
 I’m a **film buff** and an **amateur chef**—data storytelling is my favourite recipe!  
