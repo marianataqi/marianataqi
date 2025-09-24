@@ -11,7 +11,7 @@ I strive to **bridge the gap between data and actionable business insights**, he
 - Currently working with **Python, SQL, Power BI, and Machine Learning**.  
 - Actively learning **Microsoft Fabric and Azure** to expand into cloud-based analytics.  
 - Open to collaborations on projects involving **personalized data, social impact, or smart automation**.  
-- Interested in **Big Data & NLP**, looking to grow my skills in these areas.  
+- Interested in **Big Data &  Dashboarding**, looking to grow my skills in these areas.  
 
 ### 📬 Connect with Me
 - LinkedIn:  www.linkedin.com/in/marianataqi
