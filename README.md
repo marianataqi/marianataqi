@@ -14,9 +14,9 @@ I strive to **bridge the gap between data and actionable business insights**, he
 - Interested in **Big Data & NLP**, looking to grow my skills in these areas.  
 
 ### 📬 Connect with Me
-- LinkedIn: [www.linkedin.com/in/marianataqi
+- LinkedIn:  www.linkedin.com/in/marianataqi
 
-]  
+  
   
 
 ### 🎬 Fun Fact
